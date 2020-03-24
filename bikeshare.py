@@ -18,7 +18,7 @@ def get_filters():
     """
     print('Hello! Let\'s explore some US bikeshare data together!')
 
-    # Definition lists
+    # Definition lists for city, filter, month and day
     city_choise = ['chicago', 'new york city', 'washington']
     filter_choice = ['month','day','none']
     month_list = ['january', 'february', 'march', 'april', 'may', 'june']
