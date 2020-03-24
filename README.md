@@ -2,10 +2,10 @@
 2020-03-24
 
 ### Project Title
-Bikeshare Project with Python Code 
+Bikeshare Project with Python Code
 
 ### Description
-Describe what your project is about and what it does
+The Python programm is calculating some statistics on bikesharing data.
 
 ### Files used
 Include the files used
