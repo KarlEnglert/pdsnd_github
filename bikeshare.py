@@ -16,9 +16,9 @@ def get_filters():
         (str) month - name of the month to filter by, or "all" to apply no month filter
         (str) day - name of the day of week to filter by, or "all" to apply no day filter
     """
-    print('Hello! Let\'s explore some US bikeshare data!')
+    print('Hello! Let\'s explore some US bikeshare data together!')
 
-    # Definition lists
+    # Definition lists for city, filter, month and day
     city_choise = ['chicago', 'new york city', 'washington']
     filter_choice = ['month','day','none']
     month_list = ['january', 'february', 'march', 'april', 'may', 'june']
